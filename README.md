@@ -1,2 +1,2 @@
 # 99-Nights-Script
-- Made with <3 by Overclocked Team
+- Made with <3 by NoxWare Team
